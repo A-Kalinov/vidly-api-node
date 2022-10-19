@@ -64,8 +64,8 @@ On Windows:
 
 ### testing users
 
-Username: swayer@abv.bg
+Username: swayer_vidly@abv.bg
 
-Password: 123456789
+Password: 0123456789
 
 Name: Test user
